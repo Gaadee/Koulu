@@ -1,5 +1,5 @@
 <php?
 
-echo "Tässä sinulle hyvä etunimi: Sakari";
+echo "TÃ¤ssÃ¤ sinuhaistaaa kanaaaaaaÃ¤ etunimi: Sakari";
 
 ?>
